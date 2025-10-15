@@ -54,7 +54,7 @@ metadata:
     alb.ingress.kubernetes.io/certificate-arn: arn:aws:acm:us-east-1:576195058746:certificate/f5b7cc6b-9d91-468b-ac7e-2f2576a8e164
     alb.ingress.kubernetes.io/scheme: internet-facing
     alb.ingress.kubernetes.io/target-type: ip
-    alb.ingress.kubernetes.io/group.name: joindevops
+    alb.ingress.kubernetes.io/group.name: naveenlingampally
 spec:
   ingressClassName: alb
   rules:
